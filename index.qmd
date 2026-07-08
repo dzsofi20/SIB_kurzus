@@ -1,19 +1,9 @@
 ---
-title: "SIB_kurzus_2026"
----
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
----
-title: "Baby Names Project"
+title: "Baby Names Project - SIB course"
 format: html
 ---
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21263336.svg)](https://doi.org/10.5281/zenodo.21263336)
 
 # Introduction
 
