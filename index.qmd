@@ -1,0 +1,33 @@
+---
+title: "SIB_kurzus_2026"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+---
+title: "Baby Names Project"
+format: html
+---
+
+# Introduction
+
+In this project, we aim to visualize the trends of the most frequently used baby names from 1880 to 2017 in the United States.
+
+We do this by:
+
+-   Understanding the different columns of the data set
+-   Finding the top 10 most frequently used baby names in the data for:
+    -   girls
+    -   boys
+-   Plotting the yearly trend of the top 10 baby names
+
+![](image.png){width="54"}
+
+```         
+```
