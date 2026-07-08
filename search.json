@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Baby Names Project",
+    "title": "Baby Names Project - SIB course",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nIntroduction\nIn this project, we aim to visualize the trends of the most frequently used baby names from 1880 to 2017 in the United States.\nWe do this by:\n\nUnderstanding the different columns of the data set\nFinding the top 10 most frequently used baby names in the data for:\n\ngirls\nboys\n\nPlotting the yearly trend of the top 10 baby names"
+    "text": "DOI\n\n\n\nIntroduction\nIn this project, we aim to visualize the trends of the most frequently used baby names from 1880 to 2017 in the United States.\nWe do this by:\n\nUnderstanding the different columns of the data set\nFinding the top 10 most frequently used baby names in the data for:\n\ngirls\nboys\n\nPlotting the yearly trend of the top 10 baby names"
   },
   {
     "objectID": "analysis.html",
